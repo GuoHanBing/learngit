@@ -1,0 +1,31 @@
+# eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+.factorypath
+
+# Gradle
+.gradle/
+build/
+
+# IDEA
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Temp
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# System
+.DS_Store
+Thumbs.db
