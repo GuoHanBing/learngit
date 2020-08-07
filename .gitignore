@@ -1,5 +1,8 @@
 # eclipse
+<<<<<<< HEAD
 *.class
+=======
+>>>>>>> 21c18f06a9f4aa9598bed36197d21ec30b57cc63
 .project
 .classpath
 .settings/
